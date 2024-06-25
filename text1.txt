@@ -1,1 +1,1 @@
-parallel development in git
+parallel development in git which is a open source
